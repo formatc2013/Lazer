@@ -1,0 +1,15 @@
+{
+    "name": "com.unity.Lazer",
+    "displayName": "Lazer",
+    "version": "1.0.0",
+    "unity": "2019.*",
+    "description": "C# shorcuts for lazy coders,",
+    "keywords": ["library", "coroutine", "code"],
+    "category": "Code library",
+    "dependencies": {
+        
+    }
+}
+
+
+
